@@ -12,18 +12,24 @@ The team from CitiPix has reached out for iteration on their prototype.  Instead
 
 ## Technical Requirements
 
-- Create an array with the following values: "NYC", "SF", "LA", "ATX", "SYD"; use the array to add values to the ```<select>``` menu by using a ```for``` loop in JavaScript (don't update the HTML to do this!)
+- Create an array with the following values: "NYC", "SF", "LA", "ATX", "SYD"; use the array to add values to the `<select>` menu by using `forEach` in JavaScript or `each` in jQuery (don't update the HTML to do this!)
 - When the user changes the input of the drop-down, update the background image based on what they selected
-- Use $.append() in your iteration on the drop-down menu
-- Use the ```$.attr()``` function to update html classes
-- Get the value of user input using ```$.val()```
-- Use the ```$.change``` event handler to capture user actions
-- Use ```if/else if/else ``` conditionals to control the flow of your application
-- Display your pseudocode as Javascript comments
+- Use `$.append()` in to add items to the drop-down menu
+- Use the `$.attr()` function or `$.addClass()/$.removeClass()` to update html classes
+- Get the value of user input using `$.val()`
+- Use the `$.change` event handler to capture user actions
+- Use `if/else` conditionals to control the flow of your application
+- Write pseudocode in the form of Javascript comments
 
 ## Bonus
 
 - [Read](http://bavotasan.com/2011/style-select-box-using-only-css/) [up](https://css-tricks.com/dropdown-default-styling/) on your own and incorporate some more styles on the drop down menu
 - While the dropdown menu should update the page in the same way it did after your work last week, take a look at what your final product should look like with a dropdown menu:
+
+## Resources
+
+- jQuery `each`: [http://api.jquery.com/jquery.each/](http://api.jquery.com/jquery.each/)
+- jQuery `append`: [http://api.jquery.com/append/](http://api.jquery.com/append/)
+- jQuery `change`: [https://api.jquery.com/change/](https://api.jquery.com/change/)
 
 ![Deliverable](citipix_solution_week6.png)
