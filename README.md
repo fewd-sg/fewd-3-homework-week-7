@@ -31,5 +31,7 @@ The team from CitiPix has reached out for iteration on their prototype.  Instead
 - jQuery `each`: [http://api.jquery.com/jquery.each/](http://api.jquery.com/jquery.each/)
 - jQuery `append`: [http://api.jquery.com/append/](http://api.jquery.com/append/)
 - jQuery `change`: [https://api.jquery.com/change/](https://api.jquery.com/change/)
+- HTML `<select>` tag: [https://developer.mozilla.org/en/docs/Web/HTML/Element/select](https://developer.mozilla.org/en/docs/Web/HTML/Element/select)
+- HTML `<option>` tag: [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
 
 ![Deliverable](citipix_solution_week6.png)
