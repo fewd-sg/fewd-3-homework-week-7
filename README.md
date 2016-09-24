@@ -1,4 +1,4 @@
-# FEWD Week # 6: Working with Arrays
+# FEWD Week 7: Working with Arrays
 
 ## Description
 
