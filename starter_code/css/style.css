@@ -91,16 +91,17 @@ header {
   color: #6b6b6c;
   font-size: 38px;
   background: #fff;
-  border: 1px solid #111;
+/*  border: 1px solid #111;*/
   padding: 0px 30px;
   display: inline-block;
-  width: 680px;
+ /* width: 680px;*/
+  width: 700px;
   margin-right: 24px;
   font-family: helvetica, arial, sans-serif;
   height: 72px;
   line-height: 74px;
   vertical-align: middle;
-  box-shadow: #111 0 0 20px;
+ /* box-shadow: #111 0 0 20px;*/
 }
 #submit-btn {
   background: #ffe500;
@@ -142,6 +143,31 @@ header {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+.styled-select select {
+   background: transparent;
+   width: 500px;
+   padding: 5px;
+   font-size: 16px;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 34px;
+   -webkit-appearance: none;
+   -moz-appearance: none;
+   opacity: 0.3;
+   /*border-right:*/
+   }
+
+.styled-select {
+
+   width: 700px;
+   height: 74px;
+   overflow: hidden;
+   background: url(../images/expand-button.png) no-repeat right white;
+   border: 1px solid black;
+  
+   }
 
 
 
